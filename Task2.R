@@ -1,5 +1,5 @@
 #Importing Dataset
-irisData=read.csv('datasets/Iris.csv',header=TRUE)
+irisData=read.csv('Iris.csv',header=TRUE)
 #Data Preprocessing
 print(dim(irisData))
 str(irisData)
